@@ -1,0 +1,19 @@
+{
+  "name": "jest-tulane-reporter",
+  "version": "1.0.0",
+  "description": "This is an example reporter for a Tulane class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jest reporter",
+    "example",
+    "test reporter"
+  ],
+  "author": {
+    "name": "Steven Scaffidi",
+    "email": "sscaff1@gmail.com"
+  },
+  "license": "ISC"
+}
